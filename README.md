@@ -130,21 +130,7 @@ Project photos, hardware setups, and demo screenshots are available in the `imag
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/my-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project does not currently specify a license. Please contact the author for usage permissions.
 
 ---
 
