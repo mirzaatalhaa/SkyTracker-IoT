@@ -132,7 +132,7 @@ Project photos, hardware setups, and demo screenshots are available in the `imag
 
 
 
----
+
 
 ## 👤 Author
 
