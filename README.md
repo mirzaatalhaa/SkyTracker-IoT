@@ -1,4 +1,4 @@
-# 🛰️ SkyTracker
+# 🛰️ SkyTracker IoT
 
 A hardware + cloud IoT project for real-time sky/satellite tracking. SkyTracker combines embedded firmware (C++) running on a microcontroller with an AWS cloud backend (JavaScript) to collect, transmit, and visualize tracking data.
 
