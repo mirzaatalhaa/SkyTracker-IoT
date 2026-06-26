@@ -59,8 +59,8 @@ const char *ssid     = "YOUR_WIFI_SSID";
 const char *password = "YOUR_WIFI_PASSWORD";
 const char *apiUrl   = "YOUR_API_GATEWAY_URL/flights";
 
-const float myLat = 9.994006;   // your latitude
-const float myLon = 76.398733;  // your longitude
+const float myLat = your latitude  // Eg. 5.34545
+const float myLon = your longitude  // Eg. 7.34654
 ```
 
 ### Flashing
